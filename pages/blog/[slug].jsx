@@ -30,7 +30,7 @@ export default function PostPage({ frontmatter: { title, category, date, cover_i
                 </div>
 
                 <div className='blog-text mt-2'>
-                    <div > <ReactMarkdown children={content} /> </div>
+                    <div><ReactMarkdown>{content}</ReactMarkdown></div>
                 </div>
             </div>
         </Layout>
