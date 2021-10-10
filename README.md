@@ -2,9 +2,7 @@
 
 > Static Next.js blog that uses Markdown for posts. Includes pagination, categories and search
 
-![DevSpace Blog](/public/images/screen.png 'DevSpace Blog')
-
-[VIEW DEMO]()
+[VIEW DEMO](https://next-devspace-blog.vercel.app/)
 
 ## Usage
 
